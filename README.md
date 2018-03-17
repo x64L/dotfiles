@@ -1,0 +1,2 @@
+# dotfiles
+My dotfiles. My setup, while rather productive, is ugly as shit, and so I don't see any reason for anyone to use it, rather than being too lazy to configure your computer yourself, in which case I you should be ashamed of yourself because ricing and configuring is all of the fucking fun. The only reason I uploaded all of this to GitHub is to make it easier for me to configure new computers that I set up.
